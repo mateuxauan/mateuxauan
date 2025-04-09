@@ -18,5 +18,5 @@
   <a href="https://www.linkedin.com/in/mateu-xauan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
  
-  ![snake gif](https://raw.githubusercontent.com/mateuxauan/mateuxauan/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/mateuxauan/mateuxauan/blob/output/github-contribution-grid-snake.svg)
 </div>
